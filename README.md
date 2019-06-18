@@ -12,9 +12,9 @@ Authors:
 
 # 
 
-PDF file contains the report about this work.
+- PDF file contains the report about this work.
 
-The dataset is available at this link:
+* The dataset is available at this link:
 LINK
 
 IPNB file contains Pytorch implementation of CAOS
