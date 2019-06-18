@@ -27,7 +27,13 @@ Authors:
   
   For further details please open PDF file, which contains the report on the work.
   
-- At this link you can find the live demo of CAOS:
+- Below the live demo of CAOS:
+
+<p align="center">
+  <img width="600" height="500" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/CAOS-Demo.gif">
+</p>
+
+ 
 
   https://drive.google.com/open?id=1lhpo31ZOITBNggDLJiajHV0Pm-fKDuhd
   
