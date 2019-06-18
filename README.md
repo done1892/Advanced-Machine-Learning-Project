@@ -12,13 +12,13 @@ Authors:
 
 # 
 
-- PDF file contains the report about this work.
+- The PDF file contains the report about this work.
 
 * The dataset is available at this link:
 
   http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
 
-- IPNB file contains Pytorch implementation of CAOS. Below the description.
+- The ipynb file contains Pytorch implementation of CAOS. Below the description.
 
   The first part of the notebook includes initialization of functions which will be used in dataloader to perform geometric transformations, such as rotations, cropping, etc.
   After, a Pytorch dataloader has been instantiated, it can handle one channels images and performs preprocessing and data augumentation, and after that feeds the neural network
