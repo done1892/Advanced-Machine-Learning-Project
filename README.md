@@ -34,7 +34,7 @@ state of the art results in a specific domain without signs of overftting
 
   The first part of the notebook includes initialization of functions which will be used in dataloader to perform geometric transformations, such as rotations, cropping, etc.
   After, a Pytorch dataloader has been instantiated, it can handle one channel images and performs preprocessing and data augumentation, and after that feeds the neural network.
-  The pretrained NN used for this task is SqueezeNet which outputs an array of two elements. The network has been trained through stochastic gradient descending using the Adam Optimizer. The Loss function used is customized and compare the chord between the angle predicted by the network and its real value. Gradients optimize this function in the training loop for 80 epochs.
+  The pretrained NN used for this task is SqueezeNet which outputs an array of two elements. The network has been trained through stochastic gradient descending using the Adam Optimizer. The Loss function used is customized and computes the chord between the angle predicted by the network and its real value. Gradients optimize this function in the training loop for 80 epochs.
   In the last part the trained model has been used for inference, and evaluation on some images
   
   For further details please open PDF file, which contains the report on the work.
