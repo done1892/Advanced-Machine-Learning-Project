@@ -39,13 +39,8 @@ state of the art results in a specific domain without signs of overftting
   
   For further details please open PDF file, which contains the report on the work.
   
-- Below the live demo of CAOS:
+- Below CAOS on live demo.
 
 <p align="center">
   <img width="600" height="500" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/CAOS-Demo.gif">
 </p>
-
- 
-
-  https://drive.google.com/open?id=1lhpo31ZOITBNggDLJiajHV0Pm-fKDuhd
-  
