@@ -1,6 +1,4 @@
-# Advanced-Machine-Learning-Project
-
-## CAOS -  Continuous Angle Orientation System
+# CAOS -  Continuous Angle Orientation System
 
 Authors:
 - Davide Brinati - d.brinati@campus.unimib.it
