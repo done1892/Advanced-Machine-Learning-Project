@@ -20,8 +20,7 @@ Authors:
 
 - IPNB file contains Pytorch implementation of CAOS. Below the description.
 
-  prova
-  
-    prova
+  The first part of the notebook is suited for initialization of function, which will be used in dataloader to perform geometric transformations, such as rotations, cropping, etc.
+  ggfgfg
 
       the file..
