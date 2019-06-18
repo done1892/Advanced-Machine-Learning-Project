@@ -15,7 +15,7 @@ Authors:
 - PDF file contains the report about this work.
 
 * The dataset is available at this link:
-LINK
+  http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
 
 - IPNB file contains Pytorch implementation of CAOS. Below the description.
 
