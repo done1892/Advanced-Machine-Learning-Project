@@ -17,9 +17,6 @@ Authors:
 * The dataset is available at this link:
 LINK
 
-- IPNB file contains Pytorch implementation of CAOS.
-\ndhdhdhdhdhhdhddhdhd
-djdjdjdjd
+- IPNB file contains Pytorch implementation of CAOS. Below the description.
 
-
-ddjdjdjdjd
+the file..
