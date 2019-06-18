@@ -25,8 +25,7 @@ Authors:
   The pretrained NN used for this task is SqueezeNet which outputs an array of two elements. The network has been trained through stochastic gradient descending using the Adam Optimizer. The Loss function used is customized compare the chord between the angle predicted by the network and its real value. Gradients optimize this function in the training loop for 80 epochs.
   In the last part the trained model has been used for inference, and evaluation on some images
   
-  
-  
-  
+- At this link you can find the live demo of CAOS:
 
-      the file..
+https://drive.google.com/open?id=1lhpo31ZOITBNggDLJiajHV0Pm-fKDuhd
+  
