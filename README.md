@@ -16,11 +16,7 @@ The task of image orientation consists in the prediction of the most
 natural angle that a human would use to take a picture. In this paper
 we propose CAOS, a new system to allow a common convolutional
 neural network to deal with the cyclical nature of predicting the natural angle of an image. The solution is not straightforward due to
-the periodic behavior of angles. The model proposed is a supervised
-neural network that avoids the need to previously and feature points
-or landmarks but uses a standard convolutional neural network with
-a particular kind of loss function and output pair. The model reaches
-state of the art results in a specific domain without signs of overftting
+the periodic behavior of angles. The model proposed is a supervised neural network that doesn't need feature points or landmarks as inputs but uses a standard convolutional neural network with a particular kind of loss function and output pair. The model reaches state of the art results in a specific domain without signs of overfitting.
 
 #
 
