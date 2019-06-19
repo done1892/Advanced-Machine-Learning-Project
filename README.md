@@ -44,5 +44,5 @@ the periodic behavior of angles. The model proposed is a supervised neural netwo
 - A bunch of inference results on famous AI scientists.
 
 <p align="center">
-  <img width="1000" height="300" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/rotation_sample.png">
+  <img width="1000" height="250" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/rotation_sample.png">
 </p>
