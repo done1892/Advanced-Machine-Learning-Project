@@ -1,7 +1,7 @@
 # CAOS -  Continuous Angle Orientation System
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/logo_DS.png">
+  <img width="400" height="100" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/logo_DS.png">
 </p>
 
 <p align="center">
