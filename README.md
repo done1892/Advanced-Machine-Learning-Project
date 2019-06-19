@@ -38,5 +38,11 @@ the periodic behavior of angles. The model proposed is a supervised neural netwo
 - Below CAOS on live demo.
 
 <p align="center">
-  <img width="600" height="500" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/CAOS-Demo.gif">
+  <img width="650" height="350" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/CAOS-Demo.gif">
+</p>
+
+- A bunch of inference results on famous AI scientists.
+
+<p align="center">
+  <img width="700" height="200" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/rotation_sample.png">
 </p>
