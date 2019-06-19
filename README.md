@@ -35,8 +35,7 @@ the periodic behavior of angles. The model proposed is a supervised neural netwo
   
   For further details please open PDF file, which contains the report on the work.
   
-- Below CAOS on live demo.
-
+  - You can see an example of CAOS in action below
 <p align="center">
   <img width="650" height="350" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/CAOS-Demo.gif">
 </p>
