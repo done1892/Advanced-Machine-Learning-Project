@@ -54,9 +54,8 @@ the periodic behavior of angles. The model proposed is a supervised neural netwo
 
 If you want to use this work in your project, please cite:
 
-@article{CAOS,
-  author    = {Davide Brinati and
-               Davide Meloni and
-               Alberto Raimondi},
-  title     = {CAOS: Continuous Angle Orientation System},
-  year      = {2019}}
+  @article{CAOS,
+    Author    = {Davide Brinati and Davide Meloni and Alberto Raimondi},
+    Title     = {CAOS: Continuous Angle Orientation System},
+    Year      = {2019}
+  }
