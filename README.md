@@ -1,18 +1,8 @@
 # CAOS -  Continuous Angle Orientation System
 
 <p align="center">
-  <img width="400" height="100" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/logo_DS.png">
-</p>
-
-<p align="center">
   <img width="200" height="200" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/logo.png">
 </p>
-
-Authors:
-- Davide Brinati - d.brinati@campus.unimib.it
-- Davide Meloni - d.meloni5@campus.unimib.it
-- Alberto Raimondi - a.raimondi21@campus.unimib.it
-
 
 # 
 
@@ -49,4 +39,12 @@ the periodic behavior of angles. The model proposed is a supervised neural netwo
 <p align="center">
   <img width="1000" height="250" src="https://github.com/done1892/Advanced-Machine-Learning-Project/blob/master/pics/rotation_sample.png">
 </p>
+
+
+
+Authors:
+- Davide Brinati - d.brinati@campus.unimib.it
+- Davide Meloni - d.meloni5@campus.unimib.it
+- Alberto Raimondi - a.raimondi21@campus.unimib.it
+
 
